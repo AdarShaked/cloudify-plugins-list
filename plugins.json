@@ -341,11 +341,11 @@
         ]
     },
     {
-        "description": "The Docker plugin can be used to run docker commands via cloudify",
-        "icon": "https://cloudify.co/wp-content/uploads/2018/09/libvirt.png",
+        "description": "Add direct support of Docker to cloudify.",
+        "icon": "https://cloudify.co/wp-content/uploads/2020/05/docker-icon.png",
         "link": "https://github.com/cloudify-cosmo/cloudify-docker-plugin/releases/download/2.0.1/plugin.yaml",
         "name": "cloudify-docker-plugin",
-        "releases": "https://github.com/cloudify-incubator/cloudify-libvirt-plugin/releases",
+        "releases": "https://github.com/cloudify-cosmo/cloudify-docker-plugin/releases",
         "title": "Docker",
         "version": "2.0.1",
         "wagons": [
